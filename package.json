@@ -1,0 +1,16 @@
+{
+  "name": "demo_tdd",
+  "version": "1.0.0",
+  "description": "Ett program för att kolla hur tdd fungerar",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1",
+    "nodemon": "^2.0.2"
+  }
+}
